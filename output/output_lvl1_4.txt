@@ -1,0 +1,13 @@
+start;(1,0,0,mazda,stig,all-terrain,50,100%,);(n.a.)
+0;(1,0,0,toyota,stig,all-terrain,50,100%,);(A2:toyota)
+1;(1,0,0,toyota,stig,mud,50,100%,);(A4:mud)
+2;(2,0,0,toyota,stig,mud,50,100%,);(A1)
+3;(2,0,0,toyota,stig,mud,50,100%,);(A1)
+4;(4,0,0,toyota,stig,mud,50,100%,);(A1)
+5;(5,0,0,toyota,stig,mud,50,100%,);(A1)
+6;(6,0,0,toyota,stig,mud,50,100%,);(A1)
+7;(7,0,0,toyota,stig,mud,50,100%,);(A1)
+8;(9,0,0,toyota,stig,mud,50,100%,);(A1)
+9;(10,0,0,toyota,stig,mud,50,100%,);(A1)
+10;(10,0,0,toyota,stig,mud,50,100%,);(A1)
+Goal reached, you bloody ripper!
